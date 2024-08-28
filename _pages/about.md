@@ -47,7 +47,7 @@ I hope to improve my academic research ability and engineering practice ability 
 - **Personal Work**
   - Toll station toll data processing, traffic flow temporal and spatial characteristics analysis
   - Constructing equivalent topology structure of expressway network
-  - Establish and program a two-layer planning model for toll station lane layout
+  - Develop and program a two-layer planning model for toll booth lane layout. The upper layer model uses queuing theory to optimize the type, number, and direction of lanes at the toll booth with the objective of minimizing the total vehicle passage time. The lower layer model is based on a multi-user equilibrium model and handles traffic assignment across the network.
   - Explore the impact of ETC penetration rate
   - Dynamic layout of toll lanes
   - Micro traffic simulation of toll station
