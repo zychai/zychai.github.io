@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/build_info" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/doc" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/extensions/x64-mingw-ucrt/3.3.0/nokogiri-1.13.3" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/extensions/x64-mingw-ucrt/3.3.0/racc-1.6.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ethon-0.14.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-1.4.2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-em_http-1.0.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-em_synchrony-1.0.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-excon-1.1.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-net_http-1.0.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/faraday-net_http_persistent-1.1.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/.libs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/doc" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/include" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/man" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/ext/ffi_c/libffi-x64-mingw-ucrt/testsuite" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/aarch64-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/arm-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/i386-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/mips64-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/powerpc64le-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ffi-1.15.1/lib/ffi/platform/sparc-linux" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/forwardable-extended-2.6.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/gemoji-3.0.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/github-pages-health-check-1.17.2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/vendor/http-parser-java/ext" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-3.9.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-avatar-0.7.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-coffeescript-1.1.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-commonmark-1.3.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-commonmark-ghpages-0.1.6" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-default-layout-0.1.4" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-feed-0.15.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-gist-1.5.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-github-metadata-2.13.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-sass-converter-1.5.2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/jekyll-watch-2.2.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/kramdown-2.3.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/liquid-4.0.3" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/listen-3.5.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/mercenary-0.3.6" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/mini_portile2-2.8.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/multipart-post-2.1.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/nokogiri-1.13.3" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/octokit-4.21.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/pathutil-0.16.2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/racc-1.6.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/rb-fsevent-0.11.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/rb-inotify-0.10.1" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/rexml-3.2.5" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/rouge-3.26.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/ruby2_keywords-0.0.4" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/safe_yaml-1.0.5" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/sass-3.7.4" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/sass-listen-4.0.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/sawyer-0.8.2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/gems/typhoeus-1.4.0" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle/ruby/3.3.0/plugins" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

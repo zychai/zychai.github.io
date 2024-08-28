@@ -1,0 +1,51 @@
+# 菜单栏设置
+en:
+  - title: "About Me"
+    url: "/#-about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Education"
+    url: "/#-education"
+
+  - title: "Research Experiences"
+    url: "/#-research-experiences"
+
+  - title: "Contests"
+    url: "/#-contests"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Student Association"
+    url: "/#-student-association"
+
+  - title: "Skills"
+    url: "/#-skills"
+
+zh:
+  - title: "关于我"
+    url: "/zh-cn/#-about-me"
+
+  - title: "最近消息"
+    url: "/zh-cn/#-news"
+
+  - title: "教育经历"
+    url: "/zh-cn/#-education"
+
+  - title: "项目经历"
+    url: "/zh-cn/#-research-experiences"
+  
+  - title: "竞赛"
+    url: "/zh-cn/#-contests"
+
+  - title: "荣誉奖项"
+    url: "/zh-cn/#-honors-and-awards"
+
+  - title: "学生组织"
+    url: "/zh-cn/#-student-association"
+
+  - title: "技能"
+    url: "/zh-cn/#-skills"
+
