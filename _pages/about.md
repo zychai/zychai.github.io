@@ -59,7 +59,6 @@ I hope to improve my academic research ability and engineering practice ability 
   - Online car booking order data processing and statistical analysis
   - Based on ARIMA model, time series analysis and short-term prediction of online car demand
   - Visualization of spatial and temporal distribution characteristics of online car hailing
-  - Discrete simulation modeling of online car hailing
 
 ## 📷 Research and development of acquisition and recognition system for car driver's driving behavior
 - 2022.11-2023.10, <u>Project leader</u>, Student Innovation and Entrepreneurship Training Program of Southeast University
