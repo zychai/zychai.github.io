@@ -50,7 +50,6 @@ I hope to improve my academic research ability and engineering practice ability 
   - Develop and program a two-layer planning model for toll booth lane layout. The upper layer model uses queuing theory to optimize the type, number, and direction of lanes at the toll booth with the objective of minimizing the total vehicle passage time. The lower layer model is based on a multi-user equilibrium model and handles traffic assignment across the network.
   - Explore the impact of ETC penetration rate
   - Dynamic layout of toll lanes
-  - Micro traffic simulation of toll station
   - Project division and coordination, schedule arrangement, group organization and record, preparation of various materials and defense
 
 ## 🚗 Research on supply and demand forecasting and scheduling optimization of online car hailing based on time series
