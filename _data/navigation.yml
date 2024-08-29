@@ -23,6 +23,8 @@ en:
 
   - title: "Skills"
     url: "/#-skills"
+  - title: "CV"
+    url: "/files/CV(en_US)-Zuoyu_Chai.pdf"
 
 zh:
   - title: "关于我"
@@ -48,4 +50,6 @@ zh:
 
   - title: "技能"
     url: "/zh-cn/#-skills"
+  - title: "简历"
+    url: "/files/CV(en_US)-Zuoyu_Chai.pdf"
 
