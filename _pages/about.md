@@ -39,7 +39,7 @@ I hope to improve my academic research ability and engineering practice ability 
   - Training 3: Bus passenger flow analysis and timetable preparation
 - **Personal Work**
   - **Training 1:** Using Autonavi API interface, climb Nanjing public transport stations, lines, and coordinate conversion; Based on NetWorkX, a multi-modal public transport network of bus-subway coupling in L-space is constructed. Robustness analysis and visualization of multi-modal public transport network; Material writing and layout
-  - **Training 2:** Analyze bus operation characteristics based on bus arrival and departure data; Field station survey and data collation; Statistics and visualization of evaluation indicators
+  - **Training 2:** Field station survey and data collation; Statistics and visualization of evaluation indicators
   - **Training 3:** Data preprocessing and passenger statistics; Calculation of passenger flow density in line section; Line departure frequency calculation; Material writing and layout
 
 ## 📚 Research on lane layout optimization and control strategy of Intelligent Toll station on expressway
