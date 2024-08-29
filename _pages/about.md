@@ -16,7 +16,7 @@ I hope to improve my academic research ability and engineering practice ability 
 
 # 🔥 News
 - 2024.08：I started to build personal web page, learning about Jekyll and Hugo
-- 2024.05：My teammates and I were awarded Finalist the Interdisciplinary Contest In Modeling (Top 2%)
+- 2024.05：My teammates and I were awarded Finalist of the Interdisciplinary Contest In Modeling (Top 2%)
 - 2024.03：I successfully applied for a Jiangsu Province college students innovation and entrepreneurship training program
 
 # 🎓 Education
