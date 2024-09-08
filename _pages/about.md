@@ -22,7 +22,7 @@ I hope to improve my academic research ability and engineering practice ability 
 # 🎓 Education
 ## 2021.09 - 2025.06, Undergraduate
 - [Southeast University](https://www.seu.edu.cn), [School of Transportation](https://tc.seu.edu.cn), Traffic Engineering (MAO Yisheng), Nanjing
-- GPA：3.75/4.0, Average score：88.79
+- GPA：3.75/4.0
 - Major courses: Transportation Planning (97), Urban Public Transport Planning and Operation Management (92), Transportation system Analysis, Transportation Big Data Analysis, Academic reading and writing (94), Engineering mathematical analysis (93), Linear Algebra (94), Probability Theory and Mathematical Statistics (92), Data Structures and Algorithms (93)
 
 
@@ -99,5 +99,9 @@ I hope to improve my academic research ability and engineering practice ability 
 - Python, C++, Markdown, Latex, SSH
 - ArcGIS, Vissim, Transtar, Office, Navicat
 - poster making, website building
+
+---
+
+If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 ---
