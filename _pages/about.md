@@ -15,7 +15,7 @@ I am currently studying in the School of Transportation, Southeast University, m
 I hope to improve my academic research ability and engineering practice ability in the continuous experience, to contribute, to shine!
 
 # 🔥 News
-- 2024.09：I started to build personal web page, learning about Jekyll and Hugo
+- 2024.09：I learn to build personal web page, learning about Jekyll and Hugo
 - 2024.05：My teammates and I were awarded Finalist of the Interdisciplinary Contest In Modeling (Top 2%)
 - 2024.03：I successfully applied for a Jiangsu Province college students innovation and entrepreneurship training program
 
