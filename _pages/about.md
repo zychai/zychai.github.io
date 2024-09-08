@@ -91,7 +91,7 @@ I hope to improve my academic research ability and engineering practice ability 
 <span class='anchor' id='-student-association'></span>
 
 # ✏️ Student Association
-- 2022.09-2024.08, Student Union, School of Transportation, Southeast University JOIN Answer Room
+- 2022.09-2024.08, Student Union, School of Transportation, Southeast University Programming Answer Room
 - 2022.08-2023.07, Class Supervisor of Grade 2022, School of Transportation, Southeast University
 - 2021.09-2022.08, Southeast University School of Transportation JOIN Art Troupe
 
