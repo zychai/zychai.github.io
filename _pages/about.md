@@ -32,7 +32,7 @@ I hope to improve my academic research ability and engineering practice ability 
 - **Personal blog link：** [Zhihu](https://zhuanlan.zhihu.com/p/686191698), [Github](https://github.com/zychai/frank-wolfe-UE), [CSDN](http://t.csdnimg.cn/HbiXa)
 
 ## 🚌 Urban public transport planning and operation management training
-- 2024.02-2024.06, <u>Key member of the project</u>, Course project
+- 2024.02-2024.06, <u>Key member</u>, Course project
 - **Training Content**
   - Training 1: Analysis of structural characteristics of urban public transport network
   - Training 2: Analysis of urban bus operation characteristics
@@ -51,13 +51,6 @@ I hope to improve my academic research ability and engineering practice ability 
   - Explore the impact of ETC penetration rate
   - Dynamic layout of toll lanes
   - Project division and coordination, schedule arrangement, group organization and record, preparation of various materials and defense
-
-## 🚗 Research on supply and demand forecasting and scheduling optimization of online car hailing based on time series
-- 2023.02-2023.06, <u>Project leader</u>, Course project
-- **Personal Work**
-  - Online car booking order data processing and statistical analysis
-  - Based on ARIMA model, time series analysis and short-term prediction of online car demand
-  - Visualization of spatial and temporal distribution characteristics of online car hailing
 
 ## 📷 Research and development of acquisition and recognition system for car driver's driving behavior
 - 2022.11-2023.10, <u>Project leader</u>, Student Innovation and Entrepreneurship Training Program of Southeast University
@@ -96,8 +89,8 @@ I hope to improve my academic research ability and engineering practice ability 
 - 2021.09-2022.08, Southeast University School of Transportation JOIN Art Troupe
 
 # 💻 Skills
-- Python, C++, Markdown, Latex, SSH
-- ArcGIS, Vissim, Transtar, Office, Navicat
+- Python, C++, Markdown, Latex, Typst
+- ArcGIS, Vissim, Office, Navicat, MySQL
 - poster making, website building
 
 ---
