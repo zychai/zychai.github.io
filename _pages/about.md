@@ -27,9 +27,6 @@ I hope to improve my academic research ability and engineering practice ability 
 
 
 # 🔍 Research Experiences
-## ⛏️ Solution of user equilibrium model of traffic allocation based on Frank Wolfe algorithm
-- 2024.03-2024.03, <u>Complete independently</u>, Extracurricular active learning
-- **Personal blog link：** [Zhihu](https://zhuanlan.zhihu.com/p/686191698), [Github](https://github.com/zychai/frank-wolfe-UE), [CSDN](http://t.csdnimg.cn/HbiXa)
 
 ## 🚌 Urban public transport planning and operation management training
 - 2024.02-2024.06, <u>Key member</u>, Course project
