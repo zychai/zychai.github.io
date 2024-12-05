@@ -63,8 +63,11 @@ I hope to improve my academic research ability and engineering practice ability 
 - 2021.09-2022.08, Southeast University School of Transportation JOIN Art Troupe
 
 # 💻 Skills
-- Python, C++, Markdown, Latex, Typst
-- ArcGIS, Vissim, Office, Navicat, MySQL
+- Python, C++
+- Markdown, Latex, Typst, Office
+- ArcGIS, Vissim, SUMO
+- Gurobi
+- Navicat, MySQL
 - poster making, website building
 
 ---
