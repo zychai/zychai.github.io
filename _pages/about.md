@@ -28,37 +28,14 @@ I hope to improve my academic research ability and engineering practice ability 
 
 # 🔍 Research Experiences
 
-## 🚌 Urban public transport planning and operation management training
-- 2024.02-2024.06, <u>Key member</u>, Course project
-- **Training Content**
-  - Training 1: Analysis of structural characteristics of urban public transport network
-  - Training 2: Analysis of urban bus operation characteristics
-  - Training 3: Bus passenger flow analysis and timetable preparation
-- **Personal Work**
-  - **Training 1:** Using Autonavi API interface, climb Nanjing public transport stations, lines, and coordinate conversion; Based on NetWorkX, a multi-modal public transport network of bus-subway coupling in L-space is constructed. Robustness analysis and visualization of multi-modal public transport network; Material writing and layout
-  - **Training 2:** Field station survey and data collation; Statistics and visualization of evaluation indicators
-  - **Training 3:** Data preprocessing and passenger statistics; Calculation of passenger flow density in line section; Line departure frequency calculation; Material writing and layout
-
 ## 📚 Research on lane layout optimization and control strategy of Intelligent Toll station on expressway
-- 2023.11-2025.05, <u>Project leader</u>, Innovation and Entrepreneurship Training Program for College Students in Jiangsu Province
-- **Personal Work**
-  - Toll station toll data processing, traffic flow temporal and spatial characteristics analysis
-  - Constructing equivalent topology structure of expressway network
-  - Develop and program a two-layer planning model for toll booth lane layout. The upper layer model uses queuing theory to optimize the type, number, and direction of lanes at the toll booth with the objective of minimizing the total vehicle passage time. The lower layer model is based on a multi-user equilibrium model and handles traffic assignment across the network.
-  - Explore the impact of ETC penetration rate
-  - Dynamic layout of toll lanes
-  - Project division and coordination, schedule arrangement, group organization and record, preparation of various materials and defense
+- 2023.11-2025.05, <u>Project leader</u>
+- Supported by the Jiangsu Province University Innovation Training Program (202410286300Y) and the Southeast University Student Research Training Program (202421063)
 
 ## 📷 Research and development of acquisition and recognition system for car driver's driving behavior
-- 2022.11-2023.10, <u>Project leader</u>, Student Innovation and Entrepreneurship Training Program of Southeast University
-- **Abstract:** Accurate and convenient acquisition and identification of driver acceleration and deceleration behavior is an important basis for research on high-carbon driving behavior modification. Existing studies mainly assess drivers' acceleration and deceleration behaviors indirectly through vehicle motion indicators, and collect them through vehicle self-diagnosis systems or other traditional on-board equipment, which have shortcomings such as indirect behavior characterization, low sampling frequency, and poor generality. To solve this problem, this project takes the pedal opening and changing speed as the evaluation index of driver acceleration and deceleration behavior, and designs a method of pedal opening acquisition and recognition based on machine vision. By shooting the side video of the pedal, algorithms such as Hough transform and random sample consistency were used to extract and identify the opening of the pedal, and low-pass filtering was used to remove noise (≥1HZ). The sampling frequency of this method is 60Hz, the signal energy loss rate is less than 0.1%, and the acquisition equipment is easy to install and carry. The research results can provide strong basic data support for behavior analysis, low-carbon transportation, driving safety and other research fields.
-- **Personal Work**
-  - Set up the driver's lane change and following driving behavior recording hardware
-  - Follow the car experiment, collect experimental data (video)
-  - Based on machine vision, detect and extract the rotation opening of the car pedal
-  - Design the driver's behavior identification index of lane change, acceleration and deceleration, and judge the driver's driving behavior
-  - Multi-source data fusion
-  - Project division and coordination, schedule arrangement, group organization and record, preparation of various materials and defense
+- 2022.11-2023.10, <u>Project leader</u>
+- Supported by the Southeast University Student Research Training Program (202321068)
+
 
 
 # 🏅 Contests
