@@ -40,8 +40,6 @@ I hope to improve my academic research ability and engineering practice ability 
 
 # 🏅 Contests
 - 2024.05, [Finalist](https://www.comap-math.org/mcm/2024Certs/2418844.pdf) of the [Interdisciplinary Contest In Modeling](https://www.comap.com/contests/mcm-icm) (Top 2%) 
-  - Problem Type: D(Operations Research/Network Science)
-  - [View the competition papers](/files/A%20network%20flow%20control%20model%20for%20the%20water%20level%20%20of%20the%20Great%20Lakes.pdf)
 - 2023.09, Second Prize in Jiangsu Division of the National Mathematical Contest in Modeling for College Students
 - 2023.01, Third Prize in the 14th National College students Mathematics Contest
 - 2022.11, First Prize in the 19th Advanced Mathematics Competition for University Students in Jiangsu Province
